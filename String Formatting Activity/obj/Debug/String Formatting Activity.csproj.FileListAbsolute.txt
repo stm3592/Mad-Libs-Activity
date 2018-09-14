@@ -1,0 +1,7 @@
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\bin\Debug\String Formatting Activity.exe.config
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\bin\Debug\String Formatting Activity.exe
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\bin\Debug\String Formatting Activity.pdb
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\obj\Debug\String Formatting Activity.csprojAssemblyReference.cache
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\obj\Debug\String Formatting Activity.csproj.CoreCompileInputs.cache
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\obj\Debug\String Formatting Activity.exe
+D:\Profiles\stm3592\source\repos\String Formatting Activity\String Formatting Activity\obj\Debug\String Formatting Activity.pdb
